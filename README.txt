@@ -1,5 +1,5 @@
 Сhess game against AI "deepseek/deepseek-r1:free" for black
-
+free API https://openrouter.ai/deepseek/deepseek-r1:free/api
 Move a piece to e4:
 Pawn - e4
 Horse - Ne4
